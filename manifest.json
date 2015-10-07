@@ -1,6 +1,6 @@
 {
   "name": "GIF playmate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Play GIFs in Google Search Results",
   "content_scripts": [{
     "matches": [
